@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+
+# Tree Technologies
+
+
+
+Welcome to Tree Technologies, a student-run company at Howard University!
+
+
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
